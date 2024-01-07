@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+/.settings/
 .apt_generated
 .classpath
 .factorypath
@@ -14,7 +15,7 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+/.idea/
 *.iws
 *.iml
 *.ipr
